@@ -70,3 +70,13 @@
 // const bodyChildren = bodyElement.children
 // console.log(bodyChildren)
 
+// document.querySelectorAll(CSS)
+
+const elemsOne = document.querySelectorAll('.lesson')
+console.log(elemsOne)
+
+const elemsTwo = document.querySelector('li')
+console.log(elemsTwo)
+
+const elemsThree = document.querySelector('li.lesson-item-1')
+console.log(elemsThree)
