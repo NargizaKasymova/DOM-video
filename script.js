@@ -1,5 +1,5 @@
 // const windowWidth = window.innerWidth
-// console.log(`Ширина окна браузера: ${window.innerWidth}px`)
+// console.log(`Ширина окна браузера: ${windowWidth}px`)
 
 
 // console.log(navigator.userAgent)
@@ -26,7 +26,7 @@
 
 // const htmlElement = document.documentElement
 // const headElement = document.head
-const bodyElement = document.body
+// const bodyElement = document.body
 // console.log(htmlElement)
 // console.log(headElement)
 // console.log(bodyElement)
@@ -34,11 +34,14 @@ const bodyElement = document.body
 // const firstChildNode = bodyElement.firstChild
 // const lastChildNode = bodyElement.lastChild
 
-// const firstChildNode = bodyElement.firstElementChild
-// const lastChildNode = bodyElement.lastElementChild
+// const firstChildNode1 = bodyElement.firstElementChild
+// const lastChildNode1 = bodyElement.lastElementChild
 
 // console.log(firstChildNode)
 // console.log(lastChildNode)
+
+// console.log(firstChildNode1)
+// console.log(lastChildNode1)
 
 // const childNodes = bodyElement.childNodes
 // console.log(childNodes)
@@ -53,13 +56,17 @@ const bodyElement = document.body
 // const nextSiblingNode = bodyElement.nextSibling
 // const parentNode = bodyElement.parentNode
 
-// const previousSiblingNode = bodyElement.previousElementSibling
-// const nextSiblingNode = bodyElement.nextElementSibling
-// const parentNode = bodyElement.parentNode
+// const previousSiblingNode1 = bodyElement.previousElementSibling
+// const nextSiblingNode1 = bodyElement.nextElementSibling
+
 
 // console.log(previousSiblingNode)
 // console.log(nextSiblingNode)
 // console.log(parentNode)
+// console.log(previousSiblingNode1)
+// console.log(nextSiblingNode1)
 
-const bodyChildren = bodyElement.children
-console.log(bodyChildren)
+
+// const bodyChildren = bodyElement.children
+// console.log(bodyChildren)
+
